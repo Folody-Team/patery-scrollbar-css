@@ -1,3 +1,5 @@
+# Infomation
+### A patery-ui scrollbar css.
 # Usage
 ## dark
 ```css
